@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vinodini2304@gmail.com**
 
-- ⚡ Fun fact **I talk to AI as if it’s a human, making every conversation feel like a fun chat with a friend! (read my blog, you will understand)**
+- ⚡ Fun fact **I talk to AI as if it’s a human, making every conversation feel like a fun chat with a friend! (Check out my blog, you will understand.)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
